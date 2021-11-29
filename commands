@@ -1,0 +1,19 @@
+1. git init
+2. git stastus
+3. git add <file_name> Or <.> or <--all>
+4. git commit -m "<message_for_identify>"
+5. git log 
+6. git checkout <commit_id>
+7. git branch <New_branch_name>
+8. git checkout <Branch_name>
+9. git merge <Branch_name(feature)>    master
+10. git branch
+11. git diff 
+12. git stash  (it's not include the that one)
+13. git merge    :wq
+14. git log --all --decorate --graph
+15. git remote add <description> <https:/link>
+16. git remote  (it's shows all the remotes)
+17. git remote -v   (it's shows all the links)
+18. git push <remote name> <branch name>
+
